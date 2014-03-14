@@ -9,9 +9,14 @@ Reference: [使用github管理VIM][1]
 ## Usage
 ### For Windows
 - 在$HOME下执行命令
-   
-    git clone https://github.com/qinshaoq/dotvim
+
+```
+git clone https://github.com/qinshaoq/dotvim
+```
+
 git在Windows下的安装参考[Vundle for Windows][2]
+- 打开VIM并执行`BundleInstall!`即可下载对应的插件
+
 ### For Linux
 
 [1]: https://github.com/Aaronlong31/articles/blob/master/manager-vim-config-and-plugin-with-github.markdown
