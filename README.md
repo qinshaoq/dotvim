@@ -12,8 +12,9 @@ Reference: [使用github管理VIM][1]
 ```
 git clone https://github.com/qinshaoq/dotvim vimfiles
 ```
-git在Windows下的安装参考[Vundle for Windows][2]
 这一步之后，虽然bundle/vundle目录存在，但是里边并没有实际的内容
+
+git在Windows下的安装参考[Vundle for Windows][2]
 
 2. 下载vundle的内容，执行以下代码
 ```
